@@ -10,6 +10,7 @@ import { CourseListComponent } from './courses/course-list.component';
   declarations: [
     AppComponent,
     CourseListComponent
+
   ],
   imports: [
     BrowserModule,
